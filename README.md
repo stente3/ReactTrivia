@@ -1,2 +1,2 @@
 # ReactTrivia
-ReactTrivia is a captivating web page dedicated to showcasing fascinating 'Fun facts about React.'
+ReactTrivia is a captivating web page dedicated to showcasing fascinating 'Fun facts about React.' This project is inspired by a challenge extracted from the renowned 'React' course on Scrimba. Our minimalist website features a sleek navigation bar adorned with a distinctive logo. The centerpiece is a compelling title that beckons visitors to explore the captivating world of React through an engaging list of intriguing facts. Join us on ReactTrivia and expand your knowledge while enjoying an interactive journey into the depths of React.
