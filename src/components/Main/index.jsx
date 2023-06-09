@@ -28,7 +28,7 @@ function Main() {
       <img
         src={reactIcon}
         alt='React'
-        className='absolute end-0 top-16 w-44 z-0'
+        className='absolute end-0 top-80 w-44 z-0 sm:top-16'
       />
     </main>
   );
